@@ -1,9 +1,8 @@
 
-#include <array>
-#include <cstddef>
+#include "./includes/helpers.h"
+
 #include <iostream>
 
-#include "./includes/helpers.h"
 
 bool isDivisibleBy(int divisiblenNumber, int inputNumber);
 void Log(const int message);
