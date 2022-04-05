@@ -6,7 +6,7 @@ make
 # Clear-Host
 Write-Host "Running the program please wait ..."
 Write-Host ""
-Write-Host "Solution for Problem 1: Multiples of 3 and 5"
+Write-Host "Solution for Problem 1: Sum of Multiples of 3 and 5 upto 1000"
 .\main.exe
 
 Set-Location ..\..\..\
